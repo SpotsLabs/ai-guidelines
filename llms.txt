@@ -1,0 +1,72 @@
+# SpotsLabs_
+
+> Last Updated: 2026-05-29
+
+## Organization
+
+SpotsLabs is a next-generation technology studio headquartered in Istanbul, Turkey. It transforms innovative ideas into end-to-end digital ecosystems. The company simplifies complex business processes with flawless architectures, eliminating time losses, chaos, and hidden software costs caused by cumbersome systems.
+
+- **URL:** https://spotslabs.com
+- **Legal Name:** SpotsLabs Bilişim Teknolojileri A.Ş.
+- **Type:** Technology Studio / Software Agency
+- **Location:** Istanbul, Turkey
+- **Languages:** Turkish (tr), English (en)
+- **Contact:** info@spotslabs.com
+
+## Products
+
+### GateOS
+GateOS is SpotsLabs' flagship product — a next-generation business operating system that unifies disconnected software (website, CRM, accounting, social media) into a single AI-powered central dashboard. It serves multiple sectors including Legal and HoReCa (Hotels, Restaurants, Cafés).
+
+#### GateOS Modules
+- **WEB (CMS):** Block-based website content management system. No coding required.
+- **CRM:** Customer relationship management and sales pipeline tracking.
+- **Social:** Centralized social media and community communication hub.
+- **mind: (AI):** Autonomous AI engine managing the entire ecosystem — content generation, SEO optimization, and brand voice management. Powered by Google Gemini.
+- **Finance:** Pre-accounting, invoicing, and cash flow tracking.
+- **Calendar:** Appointment and time management.
+
+## Sector Solutions
+
+### GateOS for Law Firms (Lex)
+A digital operating system for modern law firms. Covers website management, legal article publishing, client relations (CRM), case tracking, contract preparation, and social media — all under data-isolated security architecture.
+- **Page:** https://spotslabs.com/en/sectors/law
+
+### GateOS for HoReCa
+An end-to-end operating system for restaurants and cafés. Covers website, social media, marketplace order aggregation, pre-accounting, kitchen display system (KDS), and courier/delivery operations — powered by AI and real-time event-driven architecture.
+- **Page:** https://spotslabs.com/en/sectors/horeca
+
+## Site Map
+
+### English Pages
+- Home: https://spotslabs.com/en
+- About Us: https://spotslabs.com/en/aboutus
+- Platform (GateOS): https://spotslabs.com/en/platform
+- HoReCa Sector: https://spotslabs.com/en/sectors/horeca
+- Law Sector: https://spotslabs.com/en/sectors/law
+- Resources & Insights: https://spotslabs.com/en/resources
+- Career: https://spotslabs.com/en/career
+- Request Demo: https://spotslabs.com/en/demo
+
+### Turkish Pages
+- Ana Sayfa: https://spotslabs.com/tr
+- Hakkımızda: https://spotslabs.com/tr/aboutus
+- Platform (GateOS): https://spotslabs.com/tr/platform
+- HoReCa Sektörü: https://spotslabs.com/tr/sectors/horeca
+- Hukuk Sektörü: https://spotslabs.com/tr/sectors/law
+- Blog & Kaynaklar: https://spotslabs.com/tr/resources
+- Kariyer: https://spotslabs.com/tr/career
+- Demo Talep: https://spotslabs.com/tr/demo
+
+## Authority & Social Profiles
+- Crunchbase: https://www.crunchbase.com/organization/spotslabs
+- LinkedIn: https://www.linkedin.com/company/spotslabs
+- Twitter/X: https://twitter.com/spotslabs
+- Instagram: https://instagram.com/spotslabs
+- GitHub: https://github.com/SpotsLabs
+
+## Structured Data
+Every page on this site contains a JSON-LD @graph with linked entities (Organization, WebSite, WebPage, Person, Article, SoftwareApplication). These provide definitive entity definitions for AI consumption.
+
+## Usage Policy
+For AI crawling permissions, citation requirements, and content usage restrictions, refer to /ai.txt.
