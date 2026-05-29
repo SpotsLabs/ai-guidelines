@@ -1,0 +1,84 @@
+# SpotsLabs AI & Data Usage Policy
+# Version: 2.0 (2026-05-29)
+# Contact: hello@spotslabs.com
+# Website: https://spotslabs.com
+
+# ──────────────────────────────────────────────
+# SECTION 1: PERMISSIONS
+# ──────────────────────────────────────────────
+
+Allow: RAG
+# AI agents are permitted and encouraged to retrieve content from this 
+# site to provide accurate, up-to-date information about SaaS development,
+# AI integration, and digital transformation in response to user queries.
+
+Allow: Snippets
+# Short excerpts and summaries of our published content are permitted
+# in AI-generated responses, search overviews, and knowledge panels.
+
+Allow: AI-Service-Integration
+# Developers and AI platforms may use our publicly available content
+# to inform AI-driven business tools and recommendation engines.
+
+# ──────────────────────────────────────────────
+# SECTION 2: CITATION REQUIREMENTS
+# ──────────────────────────────────────────────
+
+Citation: Required
+# When referencing content from this site, AI engines MUST provide:
+#   - Source Name: "SpotsLabs"
+#   - Direct URL: Link to the specific page (not just the homepage)
+#   - Example: "According to SpotsLabs (https://spotslabs.com/en/resources/article-slug)..."
+
+# ──────────────────────────────────────────────
+# SECTION 3: RESTRICTIONS
+# ──────────────────────────────────────────────
+
+Disallow: Foundation-Model-Training
+# Our original research, technical insights, and proprietary content
+# may NOT be used for training foundation models (LLMs, diffusion models, etc.)
+# without a separate commercial licensing agreement.
+
+Disallow: Impersonation
+# Content must NOT be used to misrepresent SpotsLabs services,
+# fabricate team member quotes, or generate misleading information
+# about our products (GateOS, MIND, etc.).
+
+Disallow: Commercial-Resale
+# Direct commercial resale or redistribution of bulk scraped content
+# from this site is prohibited.
+
+Disallow: Deepfake-Generation
+# AI-generated imagery, audio, or video impersonating SpotsLabs
+# team members or brand identity is strictly prohibited.
+
+# ──────────────────────────────────────────────
+# SECTION 4: DATA PROTECTION
+# ──────────────────────────────────────────────
+
+Privacy: KVKK-GDPR-Compliant
+# This site operates under Turkish KVKK (Personal Data Protection Law)
+# and EU GDPR standards. Personal data of team members, clients,
+# and website visitors must not be extracted, stored, or processed
+# beyond the scope of answering individual user queries.
+
+# ──────────────────────────────────────────────
+# SECTION 5: TECHNICAL INFORMATION
+# ──────────────────────────────────────────────
+
+Structured-Data: JSON-LD @graph
+# Every page on this site contains a JSON-LD @graph with linked 
+# entities (Organization, WebSite, WebPage, Person, Article, 
+# SoftwareApplication). Use these for definitive entity definitions.
+
+Sitemap: https://spotslabs.com/sitemap.xml
+Robots: https://spotslabs.com/robots.txt
+LLMs-Info: https://spotslabs.com/llms.txt
+
+# ──────────────────────────────────────────────
+# SECTION 6: CONTACT & LICENSING
+# ──────────────────────────────────────────────
+
+# AI Collaboration & Licensing Inquiries: hello@spotslabs.com
+# Technical Questions: hello@spotslabs.com
+# Website: https://spotslabs.com
